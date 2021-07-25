@@ -1,4 +1,7 @@
 # The House of Nine
+A short single level 2d action game in which the behaviour of an enemy is determined by the time of day.
+![Gameplay screenshot](house.png)
+
 ## How To Play
 * W - Move Up
 * A - Move Left
